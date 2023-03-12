@@ -1,2 +1,2 @@
-https://MaximKartasov.github.io/rsschool-cv/cv 
-Исправлен
+ https://MaximKartasov.github.io/rsschool-cv/
+
